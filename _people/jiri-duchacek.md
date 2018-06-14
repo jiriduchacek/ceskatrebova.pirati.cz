@@ -3,10 +3,10 @@ title: Jiri Duchacek
 categories:
 - pak
 - kandidat-chrudim-2018
-uid: les.nunvar
+uid: jiri.duchacek
 name: Jiří Ducháček
 fullname: Jiří Ducháček
-img: people/ales-nunvar.jpg
+img: 
 description: člen Pirátské strany
 candidatedesc: IT manažer
 ordpak: 
