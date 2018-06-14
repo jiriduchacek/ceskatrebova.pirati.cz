@@ -1,9 +1,9 @@
 ---
+title: Otevřené město a Transparence
 uid: otevrene-mesto
 garant: Zdeněk Kubala
-title: Otevřené město a Transparence
 img: otevrene-mesto.svg
-perex:
+perex: 
 order: 2
 ---
 

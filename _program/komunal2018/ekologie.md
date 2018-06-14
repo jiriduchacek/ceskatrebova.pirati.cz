@@ -1,12 +1,11 @@
 ---
+title: Ekologie
 uid: ekologie
 garant: Aleš Nunvář
-title: Ekologie
 img: ekologie.svg
 perex: 
 order: 4
 ---
-
 
 Jako Piráti si uvědomujeme důležitost ochrany životního prostředí, včetně kvality spodních vod, čistoty ovzduší a hospodárného nakládání s půdou i dešťovou vodou. Učiníme kroky vedoucí k efektivnímu nakládání s opady, to vše za účelem snížení podílu netříděného odpadu a snížení nákladů na jeho svoz, zpracování a likvidaci. Mimo to chceme občanům města nabídnou možnost aktivně se podílet na zkrášlení města.
 

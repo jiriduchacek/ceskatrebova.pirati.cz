@@ -1,9 +1,9 @@
 ---
+title: Kultura - Sport - Turistika
 uid: kultura-sport-turistika
 garant: Pavel Štěpánek
-title: Kultura - Sport - Turistika
 img: kultura-sport-turistika.svg
-perex:
+perex: 
 order: 7
 ---
 

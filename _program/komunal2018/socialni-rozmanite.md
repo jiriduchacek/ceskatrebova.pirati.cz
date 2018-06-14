@@ -1,7 +1,7 @@
 ---
+title: Solidární a Rozmanité
 uid: socialni-rozmanite
 garant: Nikola Štěpánková
-title: Solidární a Rozmanité
 img: socialni-rozmanite.svg
 perex: 
 order: 5

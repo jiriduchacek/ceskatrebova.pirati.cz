@@ -1,9 +1,11 @@
 ---
+title: Doprava
 uid: doprava
 garant: Daniel Lebduška
-title: Doprava
 img: miscellaneous/volebni-rozcestnik.png
-perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
+perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí
+  být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD,
+  na kole nebo autem.
 order: 3
 ---
 

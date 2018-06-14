@@ -1,25 +1,25 @@
 ---
-uid: daniel.lebduska
-name:     Daniel Lebduška               # běžně používáné jméno
-fullname: Bc. Daniel Lebduška           # jméno s tituly etc.
-category:                               # kategorie: rp, praha, vary, hradec, jmk, senat
+title: Daniel Lebduska
+categories:
 - pak
 - kandidat-chrudim-2018
-img: people/daniel-lebduska.jpg           # 165 x 220
-description: člen Pirátské strany, volební manažer pro Chrudim # kratký popis, max 160 znaků
+uid: daniel.lebduska
+name: Daniel Lebduška
+fullname: Bc. Daniel Lebduška
+img: people/daniel-lebduska.jpg
+description: člen Pirátské strany, volební manažer pro Chrudim
 candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
 mail:
 - daniel.lebduska@pirati.cz
-mob:
+mob: 
 profiles:
-  github:
+  github: 
   facebook: https://www.facebook.com/lebduska.daniel
-  twitter:
-  linkedin:
+  twitter: 
+  linkedin: 
 ---
-
 
 Do strany vstoupil v lednu 2017 a od února 2017 je Krajským volebním koordinátorem pro Pardubický kraj. 
 

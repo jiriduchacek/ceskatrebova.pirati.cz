@@ -1,9 +1,9 @@
 ---
+title: Vzdělání
 uid: vzdelani
 garant: Nikola Štěpánková
-title: Vzdělání
 img: vzdelani.svg
-perex:
+perex: 
 order: 6
 ---
 

@@ -1,13 +1,14 @@
 ---
-uid: jiri.jansa
-name:     Jiří Jansa      		# běžně používáné jméno
-fullname: Mgr. Jiří Jansa		# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+title: Jiri Jansa
+categories:
 - pak
 - kppak
 - kandidat-chrudim-2018
-img: people/jiri-jansa.jpg           # 165 x 220
-description: předseda krajského sdružení Pardubického kraje			# kratký popis, max 160 znaků
+uid: jiri.jansa
+name: Jiří Jansa
+fullname: Mgr. Jiří Jansa
+img: people/jiri-jansa.jpg
+description: předseda krajského sdružení Pardubického kraje
 candidatedesc: aktuár
 ordpak: 
 ordkomunal2018: 10
@@ -15,9 +16,9 @@ mail:
 - jiri.jansa@pirati.cz
 mob: 
 profiles:
-  github:
+  github: 
   facebook: 
-  twitter:
+  twitter: 
 ---
 
 Mgr. Jiří Jansa ( \* 7. prosince 1984) je členem Pirátské strany. 

@@ -1,26 +1,27 @@
 ---
-uid: zdenek.kubala
-name:     Zdeněk Kubala      		# běžně používáné jméno
-fullname: Zdeněk Kubala		# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+title: Zdenek Kubala
+categories:
 - pak
 - kppak
 - kandidat-chrudim-2018
-img: people/zdenek-kubala.jpg           # 165 x 220
-description: 1. místopředseda KS Pardubický kraj, zástupce vedoucího technického odboru # kratký popis, max 160 znaků
-candidatedesc: Softwarový inženýr(Linux), IT konzultant 
+uid: zdenek.kubala
+name: Zdeněk Kubala
+fullname: Zdeněk Kubala
+img: people/zdenek-kubala.jpg
+description: 1. místopředseda KS Pardubický kraj, zástupce vedoucího technického odboru
+candidatedesc: Softwarový inženýr(Linux), IT konzultant
 ordpak: 
 ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
 mob: 
-
 profiles:
   github: djz88
   facebook: 
-  twitter:
-  linkedin:
+  twitter: 
+  linkedin: 
 ---
+
 Člen komise pro sport a mládež rady města Chrudim.
 
 Je členem Pirátské strany. Řadí se mezi neortodoxní vimaře.  

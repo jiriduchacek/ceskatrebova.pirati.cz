@@ -1,25 +1,26 @@
 ---
-uid: les.nunvar
-name:     Aleš Nunvář		# běžně používáné jméno
-fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+title: Ales Nunvar
+categories:
 - pak
 - kandidat-chrudim-2018
-img: people/ales-nunvar.jpg           # 165 x 220
+uid: les.nunvar
+name: Aleš Nunvář
+fullname: Ing. Aleš Nunvář
+img: people/ales-nunvar.jpg
 description: člen Pirátské strany
-candidatedesc: Projektový manažer 
+candidatedesc: Projektový manažer
 ordpak: 
 ordkomunal2018: 3
 mail:
 - ales.nunvar@pirati.cz
 mob: 
-
 profiles:
   github: 
   facebook: 
-  twitter:
-  linkedin:
+  twitter: 
+  linkedin: 
 ---
+
 Aleš Nunvář se narodil 24. července 1979, pochází ze Slatiňan a od roku 2011 žije v Chrudimi.
 
 Vystudoval Fakultu strojního inženýrství na Vysokém učení technickém v Brně, obor Transportní a manipulační zařízení, kde získal titul Ing. V průběhu letních prázdnin pracoval ve Skandinávii a po dokončení studia pokračoval na Dánské Technické Univerzitě v Kodani. Při zaměstnání se dále vzdělával mimo jiné v projektovém managementu zakončeném mezinárodním certifikátem.
