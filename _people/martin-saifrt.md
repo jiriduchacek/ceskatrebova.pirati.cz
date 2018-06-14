@@ -7,13 +7,13 @@ categories:
 uid: Martin.Saifrt
 name: Martin Saifrt
 fullname: Martin Saifrt
-img: people/
-description: předseda krajského sdružení Pardubického kraje
+img: 
+description: člen Pirátské strany
 candidatedesc: aktuár
 ordpak: 
-ordkomunal2018: 10
+ordkomunal2018: 3
 mail:
-- jiri.jansa@pirati.cz
+- martin.saifrt@pirati.cz
 mob: 
 profiles:
   github: 
