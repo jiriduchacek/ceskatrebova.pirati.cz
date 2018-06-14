@@ -1,5 +1,6 @@
 ---
 title: Zdenek Kubala
+published: false
 categories:
 - pak
 - kppak
