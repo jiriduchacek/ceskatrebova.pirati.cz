@@ -18,13 +18,12 @@ Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu pl
 
 ### Informační systém
 
-- Kromě sdíleného kalendáře kulturních a společenských akcí, bychom chtěli zavést sdílenou mapu s nápady na výlety po okolí, zajímavá místa, dobré restaurace nebo novinky z Česko Třebovska vztahující se ke konkrétnímu místu a podobně. Do této mapy by měl být přístup zdarma pro všechny právnické i fyzické osoby. 
+- Kromě sdíleného kalendáře kulturních a společenských akcí, bychom chtěli zavést sdílenou mapu s nápady na výlety po okolí, zajímavá místa, dobré restaurace nebo novinky z Českotřebovska vztahující se ke konkrétnímu místu a podobně. Do této mapy by měl být přístup zdarma pro všechny právnické i fyzické osoby. 
 
 ### Česká Třebová atraktivní
 
-- Dlouholetým plánem Českotřebovských  Pirátů je výrazné zviditelnění města v povědomí nejen Čechů, ale udělat z něj oblíbenou zastávku pro cestovatele z celé Evropy a světa. Jednou z cest je i podpora vybudování " Trempského muzea " je škoda nechat již investované prostředky ležet a neoslovit tuto nemalou komunitu k návštěvě našeho města.  Festival pouličního umění, který by do Chrudimi přilákal interprety a diváky z celé Evropy by pomohl zviditelnit město, oživit mnohdy zapadlá romantická zákoutí starobylého města a přinést do Chrudimi prestiž i podnikatelské příležitosti. 
-
-- Piráti jsou lidé zvídaví a zajímá je historie. Proto udělají vše pro to, aby se město postaralo i o propagaci unikátní pravěké osady v Křivolíku a o podpoření podobných projektů.
+- Dlouholetým plánem Českotřebovských  Pirátů je výrazné zviditelnění města v povědomí nejen Čechů, ale udělat z něj oblíbenou zastávku pro cestovatele z celé Evropy a světa. Jednou z cest je i podpora vybudování " Trampského muzea " - je škoda nechat již investované prostředky ležet a neoslovit tuto nemalou komunitu k návštěvě našeho města.  
+- Piráti jsou lidé zvídaví a zajímá je historie. Proto udělají vše pro to, aby se město postaralo například  o propagaci unikátní pravěké osady v Křivolíku a o podpoření podobných projektů.
 
 ### Více umění do města
 
@@ -38,4 +37,3 @@ Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu pl
 - Podpoříme vznik vymezené plochy pro volné venčení psů 
 
 - Zasadíme se o více psích sáčků po parcích i běžných venčících plochách a ulicích
-
