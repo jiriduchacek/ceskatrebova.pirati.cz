@@ -1,7 +1,7 @@
 ---
 title: Vzdělání
 uid: vzdelani
-garant: Nikola Štěpánková
+garant: Jaroslav Lainz , Bedřich Ducháček
 img: vzdelani.svg
 perex: 
 order: 6
