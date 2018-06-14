@@ -1,22 +1,22 @@
 ---
-title: Daniel Lebduska
+title: ZBYNEK RUDA
 categories:
 - pak
 - kandidat-chrudim-2018
-uid: daniel.lebduska
-name: Daniel Lebduška
-fullname: Bc. Daniel Lebduška
+uid: zbynek.ruda
+name: Zbyněk Ruda
+fullname: Zbyněk Ruda
 img: people/daniel-lebduska.jpg
-description: člen Pirátské strany, volební manažer pro Chrudim
+description: 'příznivec Pirátské strany '
 candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
 mail:
-- daniel.lebduska@pirati.cz
+- 
 mob: 
 profiles:
   github: 
-  facebook: https://www.facebook.com/lebduska.daniel
+  facebook: 
   twitter: 
   linkedin: 
 ---
