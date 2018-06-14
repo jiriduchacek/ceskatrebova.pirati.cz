@@ -1,18 +1,18 @@
 ---
-title: Ales Nunvar
+title: Jiri Duchacek
 categories:
 - pak
 - kandidat-chrudim-2018
 uid: les.nunvar
-name: Aleš Nunvář
-fullname: Ing. Aleš Nunvář
+name: Jiří Ducháček
+fullname: Jiří Ducháček
 img: people/ales-nunvar.jpg
 description: člen Pirátské strany
-candidatedesc: Projektový manažer
+candidatedesc: IT manažer
 ordpak: 
-ordkomunal2018: 3
+ordkomunal2018: 1
 mail:
-- ales.nunvar@pirati.cz
+- jiri.duchacek@pirati.cz
 mob: 
 profiles:
   github: 
@@ -21,10 +21,10 @@ profiles:
   linkedin: 
 ---
 
-Aleš Nunvář se narodil 24. července 1979, pochází ze Slatiňan a od roku 2011 žije v Chrudimi.
+Jiří Ducháček  se narodil 9. července 1969, pochází z České Třebové kde žije i dnes.
 
-Vystudoval Fakultu strojního inženýrství na Vysokém učení technickém v Brně, obor Transportní a manipulační zařízení, kde získal titul Ing. V průběhu letních prázdnin pracoval ve Skandinávii a po dokončení studia pokračoval na Dánské Technické Univerzitě v Kodani. Při zaměstnání se dále vzdělával mimo jiné v projektovém managementu zakončeném mezinárodním certifikátem.
+Vystudoval 
 
-Zhruba 7 let pracoval jako vývojový konstruktér / projektant ve strojírenství i stavebnictví a to jak v ČR, tak i v zahraničí, kde několik let trvale působil. Od roku 2011 se profesně věnuje praxi, školení a poradenství v projektovému managementu. V současnosti pracuje jako projektový manažer zahraničních dodávkových projektů v oblasti sledování a řízení leteckého provozu.
+Zhruba  pracoval 
 
-V Chrudimi vede neziskový spolek provozující centrum pohybových aktivit, kde působí i jako lektor jógy. Mezi jeho další zájmy patří kultura, sport, indické kari a studium psychoterapie. 
+V České Třebové  působil jako trenér oddílu karate, jeho další zájmy jsou horská kola, turistika , sportovní střelba, programování a ruční výroba nožů. Mezi jeho další zájmy patří i oblast dopravy ,kultura a studium východních bojových umění. 
