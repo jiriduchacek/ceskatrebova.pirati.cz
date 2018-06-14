@@ -1,5 +1,6 @@
 ---
 title: Pavel Stepanek
+published: false
 categories:
 - pak
 - koordinatori
